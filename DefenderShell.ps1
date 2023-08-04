@@ -10,7 +10,7 @@ function Mostrar-Menu {
     Write-Host "2. Ejecutar Escaneo Rápido                                   " -BackgroundColor Magenta
     Write-Host "3. Ejecutar Escaneo Completo                                 " -BackgroundColor Magenta
     Write-Host "0. Salir                                                     " -BackgroundColor Magenta
-    Write-Host "===================================== Power by MrGuillote ==="
+    Write-Host "===================================== Powered by MrGuillote ==="
     Write-Host ""
 }
 
