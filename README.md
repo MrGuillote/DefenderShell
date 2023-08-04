@@ -17,6 +17,10 @@ Este es un script de PowerShell diseñado para facilitar tareas relacionadas con
 3. Sigue las instrucciones para completar la acción seleccionada.
 4. Presiona "Enter" para continuar o "0" para salir del programa después de cada acción.
 
+## Capturas
+
+![image](https://github.com/MrGuillote/DefenderShell/assets/89352244/02797f6f-6c8a-47fb-bc7c-53a93d79d405)
+
 ¡Disfruta de DefenderShell v1.0 y mantén tu sistema protegido contra amenazas!
 
 Powered by MrGuillote
